@@ -3,16 +3,16 @@ Terminal application written in C++ for storing barcodes scanned with a barcode 
 
 State transition diagram:
 
-![State transition diagram.](https://github.com/markarja/mandelbrot/blob/main/images/state-transition-diagram.png)
+![State transition diagram.](https://github.com/markarja/mandelbrot/blob/main/images/state-transition-diagram.jpg)
 
 Scan barcode:
 
-![Scan barcode.](https://github.com/markarja/mandelbrot/blob/main/images/input-barcode.png)
+![Scan barcode.](https://github.com/markarja/mandelbrot/blob/main/images/input-barcode.jpg)
 
 Input size:
 
-![Input size.](https://github.com/markarja/mandelbrot/blob/main/images/input-size.png)
+![Input size.](https://github.com/markarja/mandelbrot/blob/main/images/input-size.jpg)
 
 Continue scanning:
 
-![Scan barcode.](https://github.com/markarja/mandelbrot/blob/main/images/continue-scanning.png)
+![Scan barcode.](https://github.com/markarja/mandelbrot/blob/main/images/continue-scanning.jpg)
